@@ -13,3 +13,6 @@
 [submodule "42Cursus_02_so_long"]
 	path = 42Cursus_02_so_long
 	url = https://github.com/aLVINlEE9/42Cursus_02_so_long.git
+[submodule "42Cursus_01_Born2beRoot"]
+	path = 42Cursus_01_Born2beRoot
+	url = https://github.com/aLVINlEE9/42Cursus_01_Born2beRoot.git
