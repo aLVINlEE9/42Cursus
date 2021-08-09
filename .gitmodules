@@ -4,3 +4,6 @@
 [submodule "42Cursus_01_netwhat"]
 	path = 42Cursus_01_netwhat
 	url = https://github.com/aLVINlEE9/42Cursus_01_netwhat.git
+[submodule "42Cursus_01_get_next_line"]
+	path = 42Cursus_01_get_next_line
+	url = https://github.com/aLVINlEE9/42Cursus_01_get_next_line.git
