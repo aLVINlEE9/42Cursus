@@ -8,3 +8,4 @@
 |01|netwhat|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/netwhat)](https://github.com/aLVINlEE9/42Cursus_01_netwhat.git)|2021.05.28
 |01|get_next_line|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/get_next_line)](https://github.com/aLVINlEE9/42Cursus_01_get_next_line.git)|2021.06.04
 |01|ft_printf|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/ft_printf)](https://github.com/aLVINlEE9/42Cursus_01_ft_printf.git)|2021.08.03
+|01|Born2beroot|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/Born2beroot)](https://github.com/aLVINlEE9/42Cursus_01_Born2beroot.git)|2021.08.03
