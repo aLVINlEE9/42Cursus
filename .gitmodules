@@ -16,3 +16,9 @@
 [submodule "42Cursus_01_Born2beRoot"]
 	path = 42Cursus_01_Born2beRoot
 	url = https://github.com/aLVINlEE9/42Cursus_01_Born2beRoot.git
+[submodule "42Cursus_02_pipex"]
+	path = 42Cursus_02_pipex
+	url = https://github.com/aLVINlEE9/42Cursus_02_pipex.git
+[submodule "42Cursus_02_push_swap"]
+	path = 42Cursus_02_push_swap
+	url = https://github.com/aLVINlEE9/42Cursus_02_push_swap.git
