@@ -10,5 +10,5 @@
 |01|ft_printf|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/ft_printf)](https://github.com/aLVINlEE9/42Cursus_01_ft_printf.git)|2021.08.03
 |01|Born2beroot|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/Born2beroot)](https://github.com/aLVINlEE9/42Cursus_01_Born2beroot.git)|2021.08.15
 |02|pipex|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/pipex)](https://github.com/aLVINlEE9/42Cursus_01_Born2beroot.git)|
-|02|so_long|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/so_long)](https://github.com/aLVINlEE9/42Cursus_01_Born2beroot.git)|
+|02|so_long|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/so_long)](https://github.com/aLVINlEE9/42Cursus_02_so_long)|
 |02|push_swap|[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/seungsle/push_swap)](https://github.com/aLVINlEE9/42Cursus_01_Born2beroot.git)|
